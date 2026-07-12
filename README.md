@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/ian-Martell">IT Professional
+<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/ian-martell-506558411?trk=people-guest_people_search-card">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
