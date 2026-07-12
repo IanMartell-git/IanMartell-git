@@ -12,7 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Ian | LinkedIn" width="22px" src="https://www.linkedin.com/in/ian-martell-506558411?trk=people-guest_people_search-card" />][linkedin]
+[<img align="left" alt="Ian | LinkedIn" width="22px" src=["https://www.linkedin.com/in/ian-martell-506558411?trk=people-guest_people_search-card"](https://www.linkedin.com/in/ian-martell-506558411?trk=people-guest_people_search-card) />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: 
 - ⚡ Fun fact: ...
